@@ -1,0 +1,14 @@
+layout_spectrum: 0.8896585975307971
+typography_spectrum: 0.41041823592968285
+color:
+  brandStrength: 0.0389249671716243
+  lightness: 0.6586380952503532
+  saturation: 0.11629709089174867
+  rhythmicContrast: 0.8399926172569394
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: organicadam
